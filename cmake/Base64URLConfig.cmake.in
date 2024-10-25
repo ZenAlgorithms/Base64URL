@@ -1,0 +1,5 @@
+@PACKAGE_INIT@
+
+INCLUDE(CMakeFindDependencyMacro)
+
+INCLUDE("${CMAKE_CURRENT_LIST_DIR}/Base64URLTargets.cmake")
