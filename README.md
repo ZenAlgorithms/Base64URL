@@ -1,3 +1,7 @@
+![Something to understand how works ...](about.png)
+
+See more [examples](https://github.com/ZenAlgorithms/Base64URL/blob/master/tests/implementation_test.cc) ...
+
 ## Build
 
 ```shell
